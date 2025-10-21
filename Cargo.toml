@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+device_query = "4.0.1"
 windows = { version = "0.58", features = [
     "Win32_Graphics_Gdi",
     "Win32_Devices_Display",
